@@ -1,0 +1,16 @@
+{
+  "name": "pyp-09-task",
+  "version": "1.0.0",
+  "description": "NumberToWord",
+  "main": "main.js",
+  "scripts": {
+    "start":"node ./js/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "test"
+  ],
+  "author": "Mircavid Elekberov12",
+  "license": "ISC"
+}
